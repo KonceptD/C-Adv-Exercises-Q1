@@ -3,6 +3,7 @@ Q1 from the C# Adv exercises to prep for the exam
 
 Section A – Windows Forms Applications
 Exercise 1
+
 Create a Windows Form Application that will read and write from text files, using a BufferedStream.
 The Windows Form Application should look like the following:
 ![image](https://github.com/KonceptD/C-Adv-Exercises-Q1/assets/94140236/92f07323-c91a-4688-acdc-a756af99810e)
